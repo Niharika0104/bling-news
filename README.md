@@ -1,3 +1,15 @@
+#                                       HOME PAGE
+![homepage](https://github.com/Niharika0104/bling-news/assets/124892559/62f89944-94ac-4f9a-b20a-eefb0bbe2a17)
+#                                       SEARCH PAGE
+
+![searchpage](https://github.com/Niharika0104/bling-news/assets/124892559/12a02483-c943-45b8-9615-54e550c9d1cb)
+
+#                                       LOGGEDIN PAGE
+![loggedin](https://github.com/Niharika0104/bling-news/assets/124892559/cc8366c9-edb0-4887-8788-3da6c6683ae1)
+
+#                                       SAVED ARTICLES
+
+![saved articles](https://github.com/Niharika0104/bling-news/assets/124892559/afb60455-1798-480a-87f8-77766ddd9550)
 
 # Tech Stack used for this project is:
 HTML
@@ -24,6 +36,8 @@ Users will be able to save their posts and view them.This is implemented using f
 Users will be able to search  their preferred news.
 
 Users can view data according the different categories like general,science,health,technology,entertainment,sports,buisness.
+
+Users can delete their saved  posts.
 
 
 
