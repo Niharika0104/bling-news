@@ -1,3 +1,32 @@
+
+# Tech Stack used for this project is:
+HTML
+
+CSS
+
+JavaScript
+
+React JS
+
+Firestore
+
+Firebase
+
+Bootstrap
+
+# Features:
+NewsApi is used to fetch and display realtime data.
+
+Users will be able to log in and log out.This feature is implemented using firebase authentication
+
+Users will be able to save their posts and view them.This is implemented using firestore.
+
+Users will be able to search  their preferred news.
+
+Users can view data according the different categories like general,science,health,technology,entertainment,sports,buisness.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
